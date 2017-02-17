@@ -1,0 +1,22 @@
+ ___________________________________________________________
+|                                                           |
+| - - Start - - - - - - - - - - - - - - - - - - - - - - - - |
+|___________________________________________________________|
+
+[19:47:02.382] Starting...
+[19:47:03.410]  - - - - - - - - - - - - - - - - - - - - 
+[19:47:03.410]              Creating GUI...             
+[19:47:03.411]  - - - - - - - - - - - - - - - - - - - - 
+[19:47:03.740] 	Creating panels...
+[19:47:03.879] Music location: G:\Java\Workbenches\University\UKCCSS_Task1_Clean\CodeApp\Resources\main.mp3
+[19:47:03.879] Music not found
+[19:47:03.879] Downloading music.
+[19:47:05.680]  - - - - - - - - - - - - - - - - - - - - 
+[19:47:05.681]               Finished GUI.              
+[19:47:05.682]  BorderPane w: 480.0, h: 720.0
+[19:47:05.682]  - - - - - - - - - - - - - - - - - - - - 
+[19:47:05.683] Loading music from: G:\Java\Workbenches\University\UKCCSS_Task1_Clean\CodeApp\Resources\main.mp3
+[19:47:05.708] Playing music: main.mp3
+[19:47:05.782] Playing music now. Volume: 0.05
+[19:48:04.827] Closing logger.
+[19:48:04.827] Closing writer for logger.
